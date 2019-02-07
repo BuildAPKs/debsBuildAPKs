@@ -1,0 +1,6 @@
+[submodule "debs.ecj4.6.buildAPKs"]
+	path = debs.ecj4.6.buildAPKs
+	url = https://github.com/buildAPKs/debs.ecj4.6.buildAPKs
+[submodule "debs.ecj.buildAPKs"]
+	path = debs.ecj.buildAPKs
+	url = https://github.com/buildAPKs/debs.ecj.buildAPKs
